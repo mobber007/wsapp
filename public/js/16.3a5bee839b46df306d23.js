@@ -1,0 +1,2 @@
+webpackJsonp([16],{JgKS:function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=r("XyMi"),u=Object(n.a)({name:"ProductsWrapper",metaInfo:function(){return{title:"Produse"}}},function(){var e=this.$createElement;return(this._self._c||e)("router-view")},[],!1,null,null,null);t.default=u.exports}});
+//# sourceMappingURL=16.3a5bee839b46df306d23.js.map
