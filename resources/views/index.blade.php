@@ -23,6 +23,12 @@ $polyfills = [
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <meta property="og:title" content="WeStore" />
+  <meta property="og:type" content="article" />
+  <meta property="og:image" content="/storage/graphics/home_header.jpg" />
+  <meta property="og:url" content="https://westore.ro" />
+  <meta property="og:description" content="Cumpara cu spor!" />
 
   <title>{{ config('app.name') }}</title>
   <link rel="shortcut_icon" href="/storage/favicon.ico" type="image/x-icon">
